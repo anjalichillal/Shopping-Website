@@ -1,1 +1,1 @@
-# Shopy-Shopping-Website
+# Shopping-Website
